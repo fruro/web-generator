@@ -2,6 +2,7 @@
 
 ##Description
 Web genarator is a dynamic site generator using PHP, making it easy to quickly build database driven websites.
+Note: Still under initial construction
 
 ##Contributors
 [Peter Entwistle] (http://peterentwistle.co.uk) is the main contributor.
